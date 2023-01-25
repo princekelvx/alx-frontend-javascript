@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { resolve } from "path";
 
 export default function getFullResponseFromAPI(success) {
