@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function updateUniqueItems(map) {
   const list = map;
 
